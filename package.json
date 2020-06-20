@@ -1,24 +1,24 @@
 {
-  "name": "birthday",
+  "name": "papa",
   "version": "1.0.0",
-  "description": "Birthday greetings..",
+  "description": "Father's day greetings..",
   "main": " ",
   "scripts": {
     "server-node": "http-server -p 8081"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Riturt/Ritu.git"
+    "url": "git+https://github.com/Riturt/papa.git"
   },
   "keywords": [
-    "Birthday"
+    "Father's day"
   ],
   "author": "Ritu Tirlapur",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/Riturt/Ritu/issues"
+    "url": "https://github.com/Riturt/papa/issues"
   },
-  "homepage": "https://github.com/Riturt/Ritu#readme",
+  "homepage": "https://github.com/Riturt/papa#readme",
   "dependencies": {
     "http-server": "^0.11.1"
   }
